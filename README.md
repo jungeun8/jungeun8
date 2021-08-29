@@ -16,7 +16,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungeun8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![footer](https://capsule-render.vercel.app/api?type=soft&section=footer&height=100)
+![footer](https://capsule-render.vercel.app/api?type=soft&section=footer&height=30&color=auto)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungeun8)](https://github.com/anuraghazra/github-readme-stats)
  -->
