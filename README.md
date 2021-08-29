@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**jungeun8/jungeun8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=jung%20eun👋&fontSize=55&fontColor=#060606)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>👩🏻‍💻About me
+
+>+ 📚웹 풀스택 개발 교육 과정(21.3~21.8)
+
+>+ 🔨Tools
+>
+><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
+
+>+ 🌱 learning 
+><img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=black"> 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungeun8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![footer](https://capsule-render.vercel.app/api?type=soft&section=footer&height=100)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungeun8)](https://github.com/anuraghazra/github-readme-stats)
+ -->
