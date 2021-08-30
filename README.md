@@ -10,12 +10,13 @@
 >
 >   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
 
->+ 🌱 learning 
+>+ 🌱 Learning 
 >
 >    <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=black"> 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungeun8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+>+ 🎨 Skills
+>
+> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungeun8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![footer](https://capsule-render.vercel.app/api?type=soft&section=footer&height=30&color=auto)
 
