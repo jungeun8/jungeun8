@@ -2,16 +2,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=jung%20eun👋&fontSize=55&fontColor=#060606)
 
 
->👩🏻‍💻About me
+>## 👩🏻‍💻About me
 
 >+ 📚웹 풀스택 개발 교육 과정(21.3~21.8)
 
 >+ 🔨Tools
 >
-><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
+>   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
 
 >+ 🌱 learning 
-><img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=black"> 
+>
+>    <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=black"> 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungeun8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
